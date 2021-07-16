@@ -1,28 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\ws-vs2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Windows\\Temp\\WorkSpace2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\ws-vs2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Windows\\Temp\\WorkSpace2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\ws-vs2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Windows\\Temp\\WorkSpace2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Temp\\ws-vs2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "C:\\Windows\\Temp\\WorkSpace2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\ws-vs2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\obj\\",
+        "outputPath": "C:\\Windows\\Temp\\WorkSpace2021\\Project-University-Asp.NetCoreMvc\\ContosoUniversity\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +46,7 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.7, )"
+              "version": "[5.0.8, )"
             }
           },
           "imports": [
@@ -74,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
